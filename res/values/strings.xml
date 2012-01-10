@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Group Expenses</string>
+    <string name="desc">Track expenses for your group.</string>
+    
+    <!-- Tabs -->
+    <string name="balance">Balance</string>
+    <string name="expense">Expense</string>
+    
+    <!-- Expense Activity -->
+    <string name="amount">Amount</string>
+    <string name="paid_for">Paid For</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="paid_by">Paid By</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Balance Activity -->
+    <string name="add_person">Add Person</string>
+    <string name="rename">Rename</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="reset_balance">Reset Balance</string>
+    
+    <!-- Dialogs -->
+    <string name="about">About</string>
+    <string name="about_desc">Group Expenses\nNayan Shah\nnayan@nayanshah.com</string>
+</resources>
