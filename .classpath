@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="lib" path="G:/Nayan/Downloads/ormlite-core-4.31.jar"/>
-	<classpathentry kind="lib" path="G:/Nayan/Downloads/ormlite-android-4.31.jar"/>
+	<classpathentry kind="lib" path="/home/nayan/workspace/oth/grxp/lib/ormlite-core-4.35.jar"/>
+	<classpathentry kind="lib" path="/home/nayan/workspace/oth/grxp/lib/ormlite-android-4.31.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
