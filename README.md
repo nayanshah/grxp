@@ -6,7 +6,7 @@ A convenient expense tracking and money-management application targeted for grou
 
 ## Download
 
-The latest stable version can be downloaded here : https://github.com/nayanshah/grxp/blob/master/Grxp.apk
+The latest stable version can be downloaded here : https://github.com/nayanshah/grxp/blob/master/Grxp.apk?raw=true
 
 ## Description
 
